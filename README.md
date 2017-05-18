@@ -2,11 +2,12 @@
 
 
 ## Ссылки ##
-[wifi-iot.com](https://wifi-iot.com/)
-[esptool-gui](https://github.com/Rodmg/esptool-gui)
-[esptool](https://github.com/espressif/esptool)
+* [wifi-iot.com](https://wifi-iot.com/)
+* [esptool-gui](https://github.com/Rodmg/esptool-gui)
+* [esptool](https://github.com/espressif/esptool)
 
 
+## Код для заливки прошивки ##
 ```
 #!bash
 
